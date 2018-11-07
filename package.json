@@ -1,0 +1,12 @@
+{
+  "name": "dsm-react-photo-browser",
+  "version": "0.3.3",
+  "description": "Local and remote photo browser with captions, selections and grid view support for react native.",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "react-native-progress": "^3.2.0",
+    "prop-types": "15.5.10",
+    "react-native-infinite-scroll-view": "^0.4.3"
+  }
+}
